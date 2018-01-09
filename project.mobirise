@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Site-12-01_2049-clone",
-    "currentPage": "page2.html",
+    "currentPage": "Vooronderzoek.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -17,9 +17,9 @@
         "display1Size": 4.25,
         "display2Font": "Lato",
         "display2Size": "3",
-        "display5Font": "Lato",
+        "display5Font": "Arimo",
         "display5Size": 1.5,
-        "display7Font": "Lato",
+        "display7Font": "Arimo",
         "display7Size": "0.8",
         "display4Font": "Lato",
         "display4Size": "1.2",
